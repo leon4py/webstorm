@@ -1,0 +1,65 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/Hello/demo1/demo2.html" timestamp="1511099116949">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="40" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1511100363911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/VueDemo/ImoocMall/index.html" timestamp="1511322839278" />
+      <file name="$USER_HOME$/WebstormProjects/Hello/Demo3/index.js" timestamp="1511100362062">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Hello/Demo4/index.html" timestamp="1511100845550">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgaWQ9InNyYyI+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgaWQ9InNyYyI+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PHNjcmlwdD4KICAgIG5ldyBWdWUoewogICAgICAgIGVsOiIjYXBwIiwKICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgIG1lc3NhZ2U6ICJoZWxsbywiCiAgICAgICAgfQogICAgfSkKPC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkZTwvZGV2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
