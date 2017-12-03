@@ -27,29 +27,50 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/lab/fe/es6/object-demo.js" timestamp="1512289439387">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="21" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgaWQ9InNyYyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">bG9nKG9iai5wcm9wZXJ0eUlzRW51bWVyYWJsZSgnbXNnJykpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgaWQ9InNyYyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>prototype</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIG5ldyBWdWUoewogICAgICAgIGVsOiIjYXBwIiwKICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgIG1lc3NhZ2U6ICJoZWxsbywiCiAgICAgICAgfQogICAgfSkKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZTwvZGV2Pgo=</text>
+        <text encoding="base64">dmFyIGEgPSAyCmNvbnNvbGUubG9nKGEpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHNvdXQgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gbG9nKG1lcykgewogICAgCn0K</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prototype</text>
       </register>
     </registers>
     <search>
