@@ -15,6 +15,12 @@
       <file name="/JavaScript Console" timestamp="1511100363911">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/fe/es6/object-named-property.js" timestamp="1512291240309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/Hello/Demo3/index.js" timestamp="1511100362062">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="7" column="19" />
@@ -37,40 +43,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">bG9nKG9iai5wcm9wZXJ0eUlzRW51bWVyYWJsZSgnbXNnJykpOwo=</text>
+        <text encoding="base64">bG9nKE9iamVjdC5pc0V4dGVuc2libGUocGVyc29uKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>prototype</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nKE9iamVjdC5pc0V4dGVuc2libGUocGVyc29uKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGEgPSAyCmNvbnNvbGUubG9nKGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvdXQgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGEgPSAyCmNvbnNvbGUubG9nKGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbG9nKG1lcykgewogICAgCn0K</text>
+        <text encoding="base64">ICAgIHNvdXQgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>prototype</text>
+        <text>str</text>
       </register>
     </registers>
     <search>
