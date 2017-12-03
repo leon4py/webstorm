@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1512025855497">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lab/fe/vue2-beginner/style.css" timestamp="1512293426294">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/Hello/demo1/demo2.html" timestamp="1511099116949">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="37" />
@@ -14,6 +17,18 @@
       </file>
       <file name="/JavaScript Console" timestamp="1511100363911">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/lab/fe/vue2-beginner/app.js" timestamp="1512292377890">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
+      <file name="D:/lab/fe/vue2-beginner/event.js" timestamp="1512293650880">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="D:/lab/fe/es6/object-named-property.js" timestamp="1512291240309">
         <mark key="[" line="0" column="0" />
@@ -27,6 +42,12 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="D:/lab/fe/vue2-beginner/event.html" timestamp="1512293682607">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/Hello/Demo4/index.html" timestamp="1511100845550">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="0" />
@@ -39,44 +60,50 @@
         <mark key="." line="21" column="6" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="D:/lab/fe/vue2-beginner/index.html" timestamp="1512292520427">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">bG9nKE9iamVjdC5pc0V4dGVuc2libGUocGVyc29uKSkK</text>
+        <text encoding="base64">ICAgIDxidXR0b24gQGNsaWNrPSJhZGQiPrOk0rvL6jwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nKE9iamVjdC5pc0V4dGVuc2libGUocGVyc29uKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxidXR0b24gQGRiY2xpY2s9ImFnZS0tIj7J2dK7y+o8L2J1dHRvbj4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBncmVldCA6IGZ1bmN0aW9uICh0aW1lKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdnb29kICcgKyB0aW1lICsgJyAnICsgdGhpcy5uYW1lICsgJyEnOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAnbmFtZSc6ICdLS8u8w9y07ycsCiAgICAgICAgJ2pvYic6ICd3ZWK/qreiJywKICAgICAgICB3ZWJzaXRlOiAnaHR0cDovL2dpdC5ra2ljYy5jbic=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFyIGEgPSAyCmNvbnNvbGUubG9nKGEpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDxoMT57eyBncmVldCgnYWZ0ZXJub29uJykgfX08L2gxPgogICAgPGgxIHYtdGV4dD0ibmFtZSI+PC9oMT4KICAgIDxwPiBKb2I6e3tqb2J9fTwvcD4KICAgIDxhIHYtYmluZDpocmVmPSJ3ZWJzaXRlIj53ZWK/qreiPC9hPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvdXQgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text encoding="base64">KyI+</text>
       </register>
     </registers>
     <search>
