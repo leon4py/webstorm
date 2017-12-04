@@ -93,6 +93,12 @@
         <mark key="." line="21" column="6" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/VueDemo/Imooc/Demo3/index.js" timestamp="1512399891964">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="D:/lab/fe/vue2-beginner/index.html" timestamp="1512296134536">
         <mark key="[" line="5" column="49" />
         <mark key="]" line="12" column="22" />
@@ -106,34 +112,34 @@
         <text encoding="base64">ICAgICAgICAgICAge25hbWU6J0FsZXgnLCBhZ2U6MTl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>event</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IDwhLS3Lq8/ysPO2qC0tPgogICAgPGgxPiBLZXlib2FyZCBFdmVudHMgPC9oMT4KICAgIDxsYWJlbD7Q1cP7OjwvbGFiZWw+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgdi1tb2RlbD0ibmFtZSI+CiAgICA8c3Bhbj57e25hbWV9fTwvc3Bhbj4KICAgIDxsYWJlbD7E6sHkOjwvbGFiZWw+CiAgICA8aW5wdXQgcmVmPSJhZ2UiIHR5cGU9InRleHQiIEBrZXl1cC5hbHQuZW50ZXIgPSJsb2dBZ2UiPgogICAgPHNwYW4+e3thZ2V9fTwvc3Bhbj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVjbnRpb24gc3VtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDwhLS3Lq8/ysPO2qC0tPgogICAgPGgxPiBLZXlib2FyZCBFdmVudHMgPC9oMT4KICAgIDxsYWJlbD7Q1cP7OjwvbGFiZWw+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgdi1tb2RlbD0ibmFtZSI+CiAgICA8c3Bhbj57e25hbWV9fTwvc3Bhbj4KICAgIDxsYWJlbD7E6sHkOjwvbGFiZWw+CiAgICA8aW5wdXQgcmVmPSJhZ2UiIHR5cGU9InRleHQiIEBrZXl1cC5hbHQuZW50ZXIgPSJsb2dBZ2UiPgogICAgPHNwYW4+e3thZ2V9fTwvc3Bhbj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxoMSB2LXRleHQ9Im5hbWUiPjwvaDE+CiAgICA8cD4gSm9iOnt7am9ifX08L3A+CiAgICA8YSB2LWJpbmQ6aHJlZj0id2Vic2l0ZSI+d2Viv6q3ojwvYT4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>event</text>
