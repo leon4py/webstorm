@@ -3,21 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1512025855497">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/lab/fe/vue2-beginner/keyboard.html" timestamp="1512295132004">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="42" />
-      </file>
-      <file name="D:/lab/fe/vue2-beginner/event.js" timestamp="1512295062659">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-      </file>
       <file name="D:/lab/fe/es6/object-named-property.js" timestamp="1512291240309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -30,12 +15,13 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/Hello/Demo4/index.html" timestamp="1511100845550">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/lab/fe/imooc-mall/src/components/Counter.vue" timestamp="1512485650200">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+        <mark key="." line="17" column="9" />
       </file>
+      <file name="D:/lab/fe/imooc-mall/src/main.js" timestamp="1512487225319" />
       <file name="D:/lab/fe/vue2-beginner/style.css" timestamp="1512296235890">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="15" column="10" />
@@ -48,26 +34,11 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="17" column="25" />
       </file>
-      <file name="D:/lab/fe/vue2-beginner/dynamic-css.html" timestamp="1512296455661">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="44" />
-      </file>
       <file name="D:/lab/fe/vue2-beginner/render.js" timestamp="1512297066502">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/Hello/demo1/demo2.html" timestamp="1511099116949">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="40" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1511100363911">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/lab/fe/vue2-beginner/app.js" timestamp="1512296386589">
         <mark key="[" line="57" column="30" />
@@ -99,6 +70,75 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="D:/lab/fe/imooc-mall/src/views/Title.vue" timestamp="1512486565502">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/vue-resource.html" timestamp="1512488437041">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="D:/lab/fe/vue2-beginner/keyboard.html" timestamp="1512295132004">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="42" />
+      </file>
+      <file name="D:/lab/fe/vue2-beginner/event.js" timestamp="1512295062659">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/src/views/GoodsList.vue" timestamp="1512487871779">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Hello/Demo4/index.html" timestamp="1511100845550">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/build/webpack.base.conf.js" timestamp="1512485814520">
+        <mark key="'" line="35" column="0" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/src/views/Image.vue" timestamp="1512486578609">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/src/views/Cart.vue" timestamp="1512487639641">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="D:/lab/fe/vue2-beginner/dynamic-css.html" timestamp="1512296455661">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Hello/demo1/demo2.html" timestamp="1511099116949">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="40" />
+      </file>
+      <file name="D:/lab/fe/imooc-mall/src/router/index.js" timestamp="1512487493850">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+      </file>
       <file name="D:/lab/fe/vue2-beginner/index.html" timestamp="1512296134536">
         <mark key="[" line="5" column="49" />
         <mark key="]" line="12" column="22" />
@@ -106,51 +146,62 @@
         <mark key="^" line="12" column="22" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="35" column="0" filename="D:/lab/fe/imooc-mall/build/webpack.base.conf.js" />
+      <jump line="9" column="14" filename="D:/lab/fe/imooc-mall/src/router/index.js" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii9jYXJ0Ij7IpbW9ubrO77O1PC9yb3V0ZXItbGluaz4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>=</text>
+      </register>
+      <register name="/" type="4">
+        <text>alias</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge25hbWU6J0FsZXgnLCBhZ2U6MTl9LAo=</text>
+        <text encoding="base64">ICAgICAgICA8cm91dGVyLWxpbmsgdG89Ii9jYXJ0Ij7IpbW9ubrO77O1PC9yb3V0ZXItbGluaz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVjbnRpb24gc3VtCg==</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj57eyRyb3V0ZS5wYXJhbXMuZ29vZHNJZH19PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGUK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IDwhLS3Lq8/ysPO2qC0tPgogICAgPGgxPiBLZXlib2FyZCBFdmVudHMgPC9oMT4KICAgIDxsYWJlbD7Q1cP7OjwvbGFiZWw+CiAgICA8aW5wdXQgdHlwZT0idGV4dCIgdi1tb2RlbD0ibmFtZSI+CiAgICA8c3Bhbj57e25hbWV9fTwvc3Bhbj4KICAgIDxsYWJlbD7E6sHkOjwvbGFiZWw+CiAgICA8aW5wdXQgcmVmPSJhZ2UiIHR5cGU9InRleHQiIEBrZXl1cC5hbHQuZW50ZXIgPSJsb2dBZ2UiPgogICAgPHNwYW4+e3thZ2V9fTwvc3Bhbj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxzcGFuPnt7JHJvdXRlLnBhcmFtcy5nb29kc0lkfX08L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>event</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>alias</last-search>
+      <last-offset />
+      <last-pattern>alias</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>alias</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
